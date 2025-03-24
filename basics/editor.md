@@ -4,7 +4,7 @@ icon: pen-to-square
 
 # Editor
 
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content. Hello WORLD!
+GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
 
