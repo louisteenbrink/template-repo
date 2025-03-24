@@ -4,7 +4,7 @@ icon: pen-to-square
 
 # Editor
 
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
+GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content. Hello WORLD!
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
 
@@ -18,21 +18,20 @@ Either start typing below, or press `/` to see a list of the blocks you can inse
 
 {% stepper %}
 {% step %}
-### Open the insert block menu
+#### Open the insert block menu
 
 Press `/` on your keyboard to open the insert block menu.
 {% endstep %}
 
 {% step %}
-### Search for the block you need&#x20;
+#### Search for the block you need
 
 Try searching for “Stepper”, for exampe, to insert the stepper block.
 {% endstep %}
 
 {% step %}
-### Insert and edit your block
+#### Insert and edit your block
 
 Click or press Enter to insert your block. From here, you’ll be able to edit it as needed.
 {% endstep %}
 {% endstepper %}
-
